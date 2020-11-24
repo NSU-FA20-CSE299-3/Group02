@@ -1,41 +1,26 @@
-![nsu logo](https://upload.wikimedia.org/wikipedia/commons/5/5c/North-South-University-logo-03.png )
-
-
-**North South University**
-
-Department of Electrical &amp; Computer Engineering
-
-**Project Proposal**
-
-**Group No:** 02
-
-**Spring 2020**
-
-**Project Name:** Mukto Batash
-
-**Course Code:** CSE299 **Sec:** 03
-
-**Faculty:** Shaikh Shawon Arefin Shimon (Sas3)
-
-**Member 1:**
-
-**Name:** Numan Talukder
-
-**ID:** 1721390642
-
-**Email:** numan.talukder@northsouth.edu
-
-**Member 2:**
-
-**Name:** Md. Al-Amin Ahmed
-
-**ID:** 1712249042
-
-**Email:** al.ahmed@northsouth.edu
-
-**Git Repository:** https://github.com/NSU-FA20-CSE299-3/Group02
-
-**Date Prepared:** 11-11-2020
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
+<p align="center"><strong>North South University</strong></p>
+<p align="center">Department of Computer Science &amp; Engineering</p>
+<p align="center"><strong>Project Proposal</strong></p>
+<p align="center"><strong>Group No</strong>: 02</p>
+<p align="center"><strong>FALL 2020</strong></p>
+<p align="center"><strong>Project Name</strong>: Mukto Batash</p>
+<p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 03</p>
+<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
+<p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
+<p align="center"><strong>Name</strong><strong>:</strong> Numan Talukder</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1721390642</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:numan.talukder@northsouth.edu">numan.talukder@northsouth.edu</a></p>
+<p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
+<p align="center"><strong>Name</strong><strong>:</strong> MD Al-Amin Ahmed</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1712249042</p>
+<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:al.ahmed@northsouth.edu">al.ahmed@northsouth.edu</a></p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-3/Group02//">https://github.com/NSU-FA20-CSE299-3/Group02/</a></p>
+<p align="center"><strong>Date Prepared</strong><strong>: </strong>11/11/2020</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
 
 **INTRODUCTION**
 
