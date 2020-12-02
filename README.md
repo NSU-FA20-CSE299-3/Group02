@@ -69,16 +69,16 @@
 <p>Django will be used to allow users to login using their Facebook and/or Google account.</p>
 
 <p>&nbsp;</p>
-<p><strong>Monetization</strong></p>
+<p><strong>MONETIZATION</strong></p>
 
 <p>Maintaining this web application and maturing this will cost money. For this purpose, Users have to buy subscriptions with a minimal amount of money. As this web application is developed for a community group, some basic features will be free of charge for use. There will be some premium features available for paid users, which will be our costing&#39;s source income.</p>
 
 <p>&nbsp;</p>
-<p><strong>Database</strong></p>
+<p><strong>DATABASE</strong></p>
 
 <p>For the database part, we choose to go with MySQL. MySQL is the most popular Open Source Relational SQL Database Management System. MySQL is one of the best RDBMS being used for developing various web-based software applications.</p>
 
 <p>&nbsp;</p>
-<p><strong>Social Impact</strong></p>
+<p><strong>SOCIAL IMPACT</strong></p>
 
-<p>People with more severe forms of mental illness have smaller social networks than others and have more family members than friends in their social circle. People with smaller social networks, with fewer intimate relationships, find it more difficult to manage social situations. To overcome this problems our web-App will help people to get rid of mental illness .</p>
+<p>Addiction is something where people becomes blind and does the wrong thing by thinking that it is right. Which leads them to criminal acts in our society. With this app we can help them to get back to their normal and happy life. By bringing them back to their old life, we can significantly reduce criminal action in our society.</p>
