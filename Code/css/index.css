@@ -1,0 +1,26 @@
+.navbar {
+  display: inherit;
+  text-align: left;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-decoration: none;
+
+}
+.signin {
+  text-align: right;
+
+}
+
+.work {
+  background-color: coral;
+  text-align: justify;
+  color: mintcream;
+
+}
+
+.aboutUs {
+  background-color: forestgreen;
+  text-align: justify;
+  color: mintcream;
+}
