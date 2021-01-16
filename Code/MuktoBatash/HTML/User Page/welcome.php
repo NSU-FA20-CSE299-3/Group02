@@ -61,7 +61,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !==true)
 </nav>
 
 <div class="container mt-4">
-<h3><?php echo "Welcome ". $_SESSION['username']?>! You can now use this website</h3>
+<h3><?php echo "Welcome ". $_SESSION['username']?>! Mukto Batash will help you to get rid of your addiction.</h3>
 <hr>
 
 </div>

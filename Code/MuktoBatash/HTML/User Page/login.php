@@ -106,7 +106,7 @@ if(empty($err))
 </nav>
 
 <div class="container mt-4">
-<h3>Please Login Here:</h3>
+<h3>Login here</h3>
 <hr>
 
 <form action="" method="post">
