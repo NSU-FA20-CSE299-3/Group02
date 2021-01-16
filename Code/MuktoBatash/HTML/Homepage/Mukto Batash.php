@@ -27,6 +27,7 @@
 
 
 
+
         <header class="nav-down responsive-nav hidden-lg hidden-md">
             <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
                 <span class="sr-only">Toggle navigation</span>
@@ -64,10 +65,10 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#What we do?">
+                        <a href="H:\Numan\Github\cse299.3\Group02\Code\MuktoBatash\HTML\User Page\login.php">
                             <span class="rect"></span>
                             <span class="circle"></span>
-                            What we do?
+                            Log In
                         </a>
                     </li>
                     <li>
