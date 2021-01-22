@@ -22,7 +22,20 @@
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
-<p><strong>INTRODUCTION</strong></p>
+
+<h3 id="table-of-contents">Table of contents</h3>
+
+<ol>
+  <a href="#introduction"><li>Introduction</li><br></a>
+  <a href="#features"><li>Features</li><br></a>
+  <a href="#technology"><li>Technology</li><br></a>
+  <a href="#businessplan"><li>BusinessPlan/Monetization</li></a><br>
+  <a href="#conclusion"><li>Conclusion</li></a><br><hr>
+
+</ol>
+<br>
+
+<p id="#introduction"><strong>INTRODUCTION</strong></p>
 
 <p>We all have our limitations. But if we can control ourselves, and run through a routine life, we can go beyond our boundaries. To be in typical life, first, we have to leave behind our inertias. One of them is addiction. Things, whether good or bad, are being done excessively is addiction. To help people get rid of these outrageous things, we have come up with this web application Mukto Batash.</p>
 
@@ -32,8 +45,9 @@
 
 <p>Mukto Batash is a web application built with the latest technologies, promising addicted people to get rid of their addiction.</p>
 
-<p><strong>FEATURES</strong></p>
 
+<p id="features"><strong>FEATURES</strong></p>
+The proposed project has the following features -
 <ul>
 <li>Sign-In/Sign-Up - Simple Sign-up process using email address.</li>
 <li>Evaluation - New users will be asked a few questions to determine their addiction level. This data will be used to determine what type of challenge will be appropriate for them.</li>
@@ -47,11 +61,43 @@
 <li>Rank - There will be a public rank position filtered by streak and sober.</li>
 <li>Motivational Quote - Motivational quotes from famous influential persons will generate automatically every day to prevent addiction.</li>
 </ul>
+<br>
+<br>
+  <p>Currently the following functions are available -
+  <p>
+    * User can Create their brand new account.<br>
+    <p align="center">
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\"><br>
+        Figure 1.0
+    </p>
+    * User can log in to their account after signing up.<br>
+    <p align="center">
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\"><br>
+        Figure 2.0
+    </p>
+    * After Signing up, user will be redirected to their dashboard, which is Currently a static page. <br>
+    <p align="center">
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\dashboard.png"><br>
+        Figure 3.0
+    </p>
+    * User can also see their profile which is also a static. <br>
+    <p align="center">
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\Profile.png"><br>
+        Figure 4.0
+    </p>
+    * Also their is cool looking homepage, which will definitely fascinate someone. </p> <br><br><br>
+    <p align="center">
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\Homepage\img\Home.png"><br>
+        Figure 5.0
+    </p>
 
 
-<p><strong>TECHNOLOGY</strong></p>
 
-<p>To give users a better experience, we decided to go with the latest technology for developing this application.</p>
+
+
+<p id="#technology"><strong>3. TECHNOLOGY</strong></p>
+
+<h6>3.1 Proposed Technology Stack: </h6>
 <p>&nbsp;</p>
 <p><em>Frontend</em></p>
 <p>For the front-end, we will be using HTML, CSS, Bootstrap. This enables cross-platform development, which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
@@ -68,17 +114,23 @@
 <p><em>Additional technologies</em></p>
 <p>Django will be used to allow users to login using their Facebook and/or Google account.</p>
 
+<h6>3.2 Implemented Technology Stack: </h6>
+<p><em>Frontend</em></p>
+<p>For the front-end, we used HTML, CSS, Bootstrap. This enables cross-platform development, which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
+
+<p><em>Backend</em></p>
+<p>We used php and javascript in the backend.</p>
+
+<p><em>Database</em></p>
+<p>We used MySql as the database. MySql uses JSON to store data and provides high performance, availability and automatic scaling.</p>
+
 <p>&nbsp;</p>
-<p><strong>MONETIZATION</strong></p>
+<p id="#businessplan"><strong>MONETIZATION</strong></p>
 
 <p>Maintaining this web application and maturing this will cost money. For this purpose, Users have to buy subscriptions with a minimal amount of money. As this web application is developed for a community group, some basic features will be free of charge for use. There will be some premium features available for paid users, which will be our costing&#39;s source income.</p>
 
-<p>&nbsp;</p>
-<p><strong>DATABASE</strong></p>
-
-<p>For the database part, we choose to go with MySQL. MySQL is the most popular Open Source Relational SQL Database Management System. MySQL is one of the best RDBMS being used for developing various web-based software applications.</p>
 
 <p>&nbsp;</p>
-<p><strong>SOCIAL IMPACT</strong></p>
+<p id="#conclusion"><strong>Conclusion</strong></p>
 
 <p>Addiction is something where people becomes blind and does the wrong thing by thinking that it is right. Which leads them to criminal acts in our society. With this app we can help them to get back to their normal and happy life. By bringing them back to their old life, we can significantly reduce criminal action in our society.</p>
