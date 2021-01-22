@@ -95,7 +95,7 @@ The proposed project has the following features -
 
 
 
-<p id="#technology"><strong>3. TECHNOLOGY</strong></p>
+<p id="technology"><strong>3. TECHNOLOGY</strong></p>
 
 <h6>3.1 Proposed Technology Stack: </h6>
 <p>&nbsp;</p>
@@ -125,12 +125,12 @@ The proposed project has the following features -
 <p>We used MySql as the database. MySql uses JSON to store data and provides high performance, availability and automatic scaling.</p>
 
 <p>&nbsp;</p>
-<p id="#businessplan"><strong>MONETIZATION</strong></p>
+<p id="businessplan"><strong>MONETIZATION</strong></p>
 
 <p>Maintaining this web application and maturing this will cost money. For this purpose, Users have to buy subscriptions with a minimal amount of money. As this web application is developed for a community group, some basic features will be free of charge for use. There will be some premium features available for paid users, which will be our costing&#39;s source income.</p>
 
 
 <p>&nbsp;</p>
-<p id="#conclusion"><strong>Conclusion</strong></p>
+<p id="conclusion"><strong>Conclusion</strong></p>
 
 <p>Addiction is something where people becomes blind and does the wrong thing by thinking that it is right. Which leads them to criminal acts in our society. With this app we can help them to get back to their normal and happy life. By bringing them back to their old life, we can significantly reduce criminal action in our society.</p>
