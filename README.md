@@ -67,12 +67,12 @@ The proposed project has the following features -
   <p>
     * User can Create their brand new account.<br>
     <p align="center">
-      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\"><br>
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\img\signup.jpeg"><br>
         Figure 1.0
     </p>
     * User can log in to their account after signing up.<br>
     <p align="center">
-      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\dashboard\pixel-html\img\"><br>
+      <img width="700" height="400" src="Code\MuktoBatash\HTML\User Page\img\Login.jpeg"><br>
         Figure 2.0
     </p>
     * After Signing up, user will be redirected to their dashboard, which is Currently a static page. <br>
