@@ -97,7 +97,7 @@ The proposed project has the following features -
 
 <p id="technology"><strong>3. TECHNOLOGY</strong></p>
 
-<h6>3.1 Proposed Technology Stack: </h6>
+<p>3.1 Proposed Technology Stack: </p>
 <p>&nbsp;</p>
 <p><em>Frontend</em></p>
 <p>For the front-end, we will be using HTML, CSS, Bootstrap. This enables cross-platform development, which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
@@ -114,7 +114,7 @@ The proposed project has the following features -
 <p><em>Additional technologies</em></p>
 <p>Django will be used to allow users to login using their Facebook and/or Google account.</p>
 
-<h6>3.2 Implemented Technology Stack: </h6>
+<p>3.2 Implemented Technology Stack: </p>
 <p><em>Frontend</em></p>
 <p>For the front-end, we used HTML, CSS, Bootstrap. This enables cross-platform development, which allows the web app to be compatible with both PC and mobile platforms. It also gives a more premium user interface and smoother experience.</p>
 
