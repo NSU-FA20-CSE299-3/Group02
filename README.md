@@ -19,6 +19,7 @@
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:al.ahmed@northsouth.edu">al.ahmed@northsouth.edu</a></p>
 <p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-FA20-CSE299-3/Group02//">https://github.com/NSU-FA20-CSE299-3/Group02/</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>11/11/2020</p>
+<p align="center"><strong>Date Submitted</strong><strong>: </strong>22/01/2021</p>
 <p><strong>&nbsp;</strong></p>
 <p><strong>&nbsp;</strong></p>
 
